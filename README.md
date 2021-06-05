@@ -10,4 +10,5 @@
 - 😄 Pronouns: DJ
 - ⚡ Fun fact: I love dogs 😍
 
-#### acheivements !
+#### Acheivements !
+[certificate-of-completion-for-javascript-basics.pdf](https://github.com/Dinujayat/Dinujayat/files/6602723/certificate-of-completion-for-javascript-basics.pdf)
