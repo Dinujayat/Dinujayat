@@ -2,7 +2,7 @@
 #### About me!
 
 - 🔭 In a relationship with coding (wink wink)
-- 🌱 I’m currently learning -Js,Java,Python
+- 🌱 I’m currently learning -Vue.js, Nuxt.js, ASP .NET Core
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with coding issues I have
 - 💬 "Never work for money, let money work for you!!"
